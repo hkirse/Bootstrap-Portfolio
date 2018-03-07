@@ -1,0 +1,106 @@
+/*background image*/
+body {
+    background-image: url("../images/dust_scratches.png");
+    margin: 0px;
+    padding: 0px;
+}
+
+/* My name background color and font */
+
+.container2{
+        padding: 10px;
+}
+
+h2 {
+    border-bottom: 2px 
+      solid 
+      #cccccc;
+      color: #4aaaa5;
+      margin-left: 11px;
+      margin-right: 11px;
+}
+
+.panel-heading {
+    border-bottom: 2px 
+    solid 
+    #cccccc;
+    text-align: center;
+    margin-left: 11px;
+    margin-right: 11px;
+}
+
+/* Center social media icons */
+#socialImages {
+    display: inline-block;
+    margin: 0;
+    padding: 10px;
+    margin-left: 97px;
+    
+    height: auto;
+      
+}
+
+.container3 {
+    text-align: center;
+    padding: 20px;
+    
+}
+
+.float-lg-left {
+    padding: 10px;
+}
+
+.float-lg-right {
+    padding: 10px;
+}
+
+.Traveltext {
+    position: absolute;
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
+    color:white;
+    top: 90%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+
+}
+
+.Hikingtext {
+    position: absolute;
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
+    color: white;
+    top: 90%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.Businesstext {
+    position: absolute;
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
+    color: white;
+    top: 90%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.Foodtext {
+    position: absolute;
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
+    color: white;
+    top: 90%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.Sportstext {
+    position: absolute;
+    background-color: #4aaaa5;
+    width:300px;
+    text-align: center;
+    color: white;
+    top: 72%;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
